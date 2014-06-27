@@ -1,7 +1,10 @@
 BarcodeScanner
 ==============
 
-Cross-platform BarcodeScanner for Cordova / PhoneGap.
+Cross-platform BarcodeScanner for Cordova / PhoneGap (with ITF support)
+
+[ ! ] Important Note:
+This plugin is identical to the PGB Barcode Scanner plugin (com.phonegap.plugins.barcodescanner) with one difference - it supports ITF barcodes.
 
 Follows the [Cordova Plugin spec](https://github.com/apache/cordova-plugman/blob/master/plugin_spec.md), so that it works with [Plugman](https://github.com/apache/cordova-plugman).
 
